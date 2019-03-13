@@ -6,7 +6,7 @@ namespace studentExercises
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string SlackHandle { get; set; }
-        public string CohortName { get; set; }
+        public Cohort Cohort { get; set; }
 
         //The collection of exercises that the student is currently working on
 

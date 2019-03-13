@@ -16,12 +16,9 @@ namespace studentExercises
 
 
             // Create 3, or more, cohorts.
-            Cohort Cohort29 = new Cohort();
-            Cohort29.CohortName = "Cohort 29";
-            Cohort Cohort30 = new Cohort();
-            Cohort30.CohortName = "Cohort 30";
-            Cohort Cohort31 = new Cohort();
-            Cohort31.CohortName = "Cohort 31";
+            Cohort Cohort29 = new Cohort("Cohort 29");
+            Cohort Cohort30 = new Cohort("Cohort 30");
+            Cohort Cohort31 = new Cohort("Cohort 31");
 
             // Create 4, or more, students and assign them to one of the cohorts.
             Student Alison = new Student("Alison", "Collins", "@alison");
