@@ -1,0 +1,11 @@
+/Users/Leah/workspace/cohort29/backend/studentExercises/bin/Debug/netcoreapp2.1/studentExercises.deps.json
+/Users/Leah/workspace/cohort29/backend/studentExercises/bin/Debug/netcoreapp2.1/studentExercises.runtimeconfig.json
+/Users/Leah/workspace/cohort29/backend/studentExercises/bin/Debug/netcoreapp2.1/studentExercises.runtimeconfig.dev.json
+/Users/Leah/workspace/cohort29/backend/studentExercises/bin/Debug/netcoreapp2.1/studentExercises.dll
+/Users/Leah/workspace/cohort29/backend/studentExercises/bin/Debug/netcoreapp2.1/studentExercises.pdb
+/Users/Leah/workspace/cohort29/backend/studentExercises/obj/Debug/netcoreapp2.1/studentExercises.csprojAssemblyReference.cache
+/Users/Leah/workspace/cohort29/backend/studentExercises/obj/Debug/netcoreapp2.1/studentExercises.csproj.CoreCompileInputs.cache
+/Users/Leah/workspace/cohort29/backend/studentExercises/obj/Debug/netcoreapp2.1/studentExercises.AssemblyInfoInputs.cache
+/Users/Leah/workspace/cohort29/backend/studentExercises/obj/Debug/netcoreapp2.1/studentExercises.AssemblyInfo.cs
+/Users/Leah/workspace/cohort29/backend/studentExercises/obj/Debug/netcoreapp2.1/studentExercises.dll
+/Users/Leah/workspace/cohort29/backend/studentExercises/obj/Debug/netcoreapp2.1/studentExercises.pdb
